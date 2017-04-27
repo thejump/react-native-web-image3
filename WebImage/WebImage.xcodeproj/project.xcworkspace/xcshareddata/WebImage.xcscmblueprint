@@ -11,8 +11,8 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8FE87D16-0222-4ED8-8BE4-ECFFFA0C3EBC",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : "..\/..\/..\/dev\/SDWebImage\/Vendors\/FLAnimatedImage",
-    "272F684BDB48C12FB82F63EFB90FF2436BBA2473" : "..\/..\/..\/dev\/SDWebImage\/Vendors\/libwebp",
+    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : "react-native-web-image\/WebImage\/SDWebImage\/Vendors\/FLAnimatedImage\/",
+    "272F684BDB48C12FB82F63EFB90FF2436BBA2473" : "react-native-web-image\/WebImage\/SDWebImage\/Vendors\/libwebp\/",
     "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : "..\/..\/..\/dev\/SDWebImage",
     "8D7073A2977C49684DEF4F92A60D6A041C2B250A" : "react-native-web-image\/"
   },
