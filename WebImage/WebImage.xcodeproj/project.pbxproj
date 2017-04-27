@@ -7,51 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		58DBB8DF1EB154BB00BC0E4A /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58DBB8D81EB1549800BC0E4A /* SDWebImage.framework */; };
+		58DBB9481EB1AE7000BC0E4A /* libSDWebImage iOS static.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58DBB93D1EB1AE3E00BC0E4A /* libSDWebImage iOS static.a */; };
 		A254B3E81E2AC847000BE088 /* WebImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = A254B3E71E2AC847000BE088 /* WebImageView.m */; };
 		A28797311DE0C1E90081BDFA /* WebImageViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A28797301DE0C1E90081BDFA /* WebImageViewManager.m */; };
 		A287974A1DE0CE9B0081BDFA /* WebImageSource.m in Sources */ = {isa = PBXBuildFile; fileRef = A28797491DE0CE9B0081BDFA /* WebImageSource.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		58DBB8D31EB1549800BC0E4A /* PBXContainerItemProxy */ = {
+		58DBB93C1EB1AE3E00BC0E4A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 58DBB8CA1EB1549800BC0E4A /* SDWebImage.xcodeproj */;
+			containerPortal = 58DBB9331EB1AE3D00BC0E4A /* SDWebImage.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 53761325155AD0D5005750A4;
 			remoteInfo = "SDWebImage iOS static";
 		};
-		58DBB8D51EB1549800BC0E4A /* PBXContainerItemProxy */ = {
+		58DBB93E1EB1AE3E00BC0E4A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 58DBB8CA1EB1549800BC0E4A /* SDWebImage.xcodeproj */;
+			containerPortal = 58DBB9331EB1AE3D00BC0E4A /* SDWebImage.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 4314D1991D0E0E3B004B36C9;
 			remoteInfo = "SDWebImage watchOS static";
 		};
-		58DBB8D71EB1549800BC0E4A /* PBXContainerItemProxy */ = {
+		58DBB9401EB1AE3E00BC0E4A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 58DBB8CA1EB1549800BC0E4A /* SDWebImage.xcodeproj */;
+			containerPortal = 58DBB9331EB1AE3D00BC0E4A /* SDWebImage.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 4A2CADFF1AB4BB5300B6BC39;
 			remoteInfo = "SDWebImage iOS";
 		};
-		58DBB8D91EB1549800BC0E4A /* PBXContainerItemProxy */ = {
+		58DBB9421EB1AE3E00BC0E4A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 58DBB8CA1EB1549800BC0E4A /* SDWebImage.xcodeproj */;
+			containerPortal = 58DBB9331EB1AE3D00BC0E4A /* SDWebImage.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 00733A4C1BC487C000A5A117;
 			remoteInfo = "SDWebImage tvOS";
 		};
-		58DBB8DB1EB1549800BC0E4A /* PBXContainerItemProxy */ = {
+		58DBB9441EB1AE3E00BC0E4A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 58DBB8CA1EB1549800BC0E4A /* SDWebImage.xcodeproj */;
+			containerPortal = 58DBB9331EB1AE3D00BC0E4A /* SDWebImage.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 431BB7031D06D2C1006A3455;
 			remoteInfo = "SDWebImage watchOS";
 		};
-		58DBB8DD1EB1549800BC0E4A /* PBXContainerItemProxy */ = {
+		58DBB9461EB1AE3E00BC0E4A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 58DBB8CA1EB1549800BC0E4A /* SDWebImage.xcodeproj */;
+			containerPortal = 58DBB9331EB1AE3D00BC0E4A /* SDWebImage.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 4397D2F21D0DDD8C00BB2784;
 			remoteInfo = "SDWebImage OSX";
@@ -71,11 +71,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		58DBB8C91EB1544400BC0E4A /* SDWebImage.xcworkspace */ = {isa = PBXFileReference; lastKnownFileType = wrapper.workspace; name = SDWebImage.xcworkspace; path = sd/SDWebImage/SDWebImage.xcworkspace; sourceTree = "<group>"; };
-		58DBB8CA1EB1549800BC0E4A /* SDWebImage.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SDWebImage.xcodeproj; path = sd/SDWebImage/SDWebImage.xcodeproj; sourceTree = "<group>"; };
+		58DBB9321EB1AE2100BC0E4A /* libWebImage.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libWebImage.a; path = "/Users/jeremeycharbonnet/trash/del/del4/react-native-web-image/WebImage/build/Debug-iphoneos/libWebImage.a"; sourceTree = "<absolute>"; };
+		58DBB9331EB1AE3D00BC0E4A /* SDWebImage.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SDWebImage.xcodeproj; path = ../../../../../dev/SDWebImage/SDWebImage.xcodeproj; sourceTree = "<group>"; };
 		A254B3E61E2AC847000BE088 /* WebImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebImageView.h; sourceTree = "<group>"; };
 		A254B3E71E2AC847000BE088 /* WebImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebImageView.m; sourceTree = "<group>"; };
-		A287971D1DE0C0A60081BDFA /* libWebImage.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libWebImage.a; path = "/Users/jeremeycharbonnet/trash/del/del4/react-native-web-image/WebImage/build/Debug-iphoneos/libWebImage.a"; sourceTree = "<absolute>"; };
 		A28797301DE0C1E90081BDFA /* WebImageViewManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebImageViewManager.m; sourceTree = "<group>"; };
 		A28797321DE0C2000081BDFA /* WebImageViewManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebImageViewManager.h; sourceTree = "<group>"; };
 		A28797481DE0CE9B0081BDFA /* WebImageSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebImageSource.h; sourceTree = "<group>"; };
@@ -87,22 +86,22 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				58DBB8DF1EB154BB00BC0E4A /* SDWebImage.framework in Frameworks */,
+				58DBB9481EB1AE7000BC0E4A /* libSDWebImage iOS static.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		58DBB8CB1EB1549800BC0E4A /* Products */ = {
+		58DBB9341EB1AE3D00BC0E4A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				58DBB8D41EB1549800BC0E4A /* libSDWebImage iOS static.a */,
-				58DBB8D61EB1549800BC0E4A /* libSDWebImage watchOS static.a */,
-				58DBB8D81EB1549800BC0E4A /* SDWebImage.framework */,
-				58DBB8DA1EB1549800BC0E4A /* SDWebImage.framework */,
-				58DBB8DC1EB1549800BC0E4A /* SDWebImage.framework */,
-				58DBB8DE1EB1549800BC0E4A /* SDWebImage.framework */,
+				58DBB93D1EB1AE3E00BC0E4A /* libSDWebImage iOS static.a */,
+				58DBB93F1EB1AE3E00BC0E4A /* libSDWebImage watchOS static.a */,
+				58DBB9411EB1AE3E00BC0E4A /* SDWebImage.framework */,
+				58DBB9431EB1AE3E00BC0E4A /* SDWebImage.framework */,
+				58DBB9451EB1AE3E00BC0E4A /* SDWebImage.framework */,
+				58DBB9471EB1AE3E00BC0E4A /* SDWebImage.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -110,8 +109,7 @@
 		A28797141DE0C0A60081BDFA = {
 			isa = PBXGroup;
 			children = (
-				58DBB8CA1EB1549800BC0E4A /* SDWebImage.xcodeproj */,
-				58DBB8C91EB1544400BC0E4A /* SDWebImage.xcworkspace */,
+				58DBB9331EB1AE3D00BC0E4A /* SDWebImage.xcodeproj */,
 				A287971F1DE0C0A60081BDFA /* WebImage */,
 			);
 			sourceTree = "<group>";
@@ -146,7 +144,7 @@
 			);
 			name = WebImage;
 			productName = WebImage;
-			productReference = A287971D1DE0C0A60081BDFA /* libWebImage.a */;
+			productReference = 58DBB9321EB1AE2100BC0E4A /* libWebImage.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -176,8 +174,8 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
-					ProductGroup = 58DBB8CB1EB1549800BC0E4A /* Products */;
-					ProjectRef = 58DBB8CA1EB1549800BC0E4A /* SDWebImage.xcodeproj */;
+					ProductGroup = 58DBB9341EB1AE3D00BC0E4A /* Products */;
+					ProjectRef = 58DBB9331EB1AE3D00BC0E4A /* SDWebImage.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -188,46 +186,46 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		58DBB8D41EB1549800BC0E4A /* libSDWebImage iOS static.a */ = {
+		58DBB93D1EB1AE3E00BC0E4A /* libSDWebImage iOS static.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
 			path = "libSDWebImage iOS static.a";
-			remoteRef = 58DBB8D31EB1549800BC0E4A /* PBXContainerItemProxy */;
+			remoteRef = 58DBB93C1EB1AE3E00BC0E4A /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		58DBB8D61EB1549800BC0E4A /* libSDWebImage watchOS static.a */ = {
+		58DBB93F1EB1AE3E00BC0E4A /* libSDWebImage watchOS static.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
 			path = "libSDWebImage watchOS static.a";
-			remoteRef = 58DBB8D51EB1549800BC0E4A /* PBXContainerItemProxy */;
+			remoteRef = 58DBB93E1EB1AE3E00BC0E4A /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		58DBB8D81EB1549800BC0E4A /* SDWebImage.framework */ = {
+		58DBB9411EB1AE3E00BC0E4A /* SDWebImage.framework */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.framework;
 			path = SDWebImage.framework;
-			remoteRef = 58DBB8D71EB1549800BC0E4A /* PBXContainerItemProxy */;
+			remoteRef = 58DBB9401EB1AE3E00BC0E4A /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		58DBB8DA1EB1549800BC0E4A /* SDWebImage.framework */ = {
+		58DBB9431EB1AE3E00BC0E4A /* SDWebImage.framework */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.framework;
 			path = SDWebImage.framework;
-			remoteRef = 58DBB8D91EB1549800BC0E4A /* PBXContainerItemProxy */;
+			remoteRef = 58DBB9421EB1AE3E00BC0E4A /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		58DBB8DC1EB1549800BC0E4A /* SDWebImage.framework */ = {
+		58DBB9451EB1AE3E00BC0E4A /* SDWebImage.framework */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.framework;
 			path = SDWebImage.framework;
-			remoteRef = 58DBB8DB1EB1549800BC0E4A /* PBXContainerItemProxy */;
+			remoteRef = 58DBB9441EB1AE3E00BC0E4A /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		58DBB8DE1EB1549800BC0E4A /* SDWebImage.framework */ = {
+		58DBB9471EB1AE3E00BC0E4A /* SDWebImage.framework */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.framework;
 			path = SDWebImage.framework;
-			remoteRef = 58DBB8DD1EB1549800BC0E4A /* PBXContainerItemProxy */;
+			remoteRef = 58DBB9461EB1AE3E00BC0E4A /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
