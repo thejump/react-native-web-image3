@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D099D18E558EE8819E922298AEEBE22531F12958",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : 9223372036854775807,
+    "272F684BDB48C12FB82F63EFB90FF2436BBA2473" : 9223372036854775807,
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : 9223372036854775807,
+    "D099D18E558EE8819E922298AEEBE22531F12958" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8FE87D16-0222-4ED8-8BE4-ECFFFA0C3EBC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : "react-native-web-image\/WebImage\/sd\/SDWebImage\/Vendors\/FLAnimatedImage\/",
+    "272F684BDB48C12FB82F63EFB90FF2436BBA2473" : "react-native-web-image\/WebImage\/sd\/SDWebImage\/Vendors\/libwebp\/",
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : "react-native-web-image\/WebImage\/sd\/SDWebImage\/",
+    "D099D18E558EE8819E922298AEEBE22531F12958" : "react-native-web-image\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WebImage",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WebImage\/WebImage.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/webmproject\/libwebp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "272F684BDB48C12FB82F63EFB90FF2436BBA2473"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Flipboard\/FLAnimatedImage",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thejump\/react-native-web-image.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D099D18E558EE8819E922298AEEBE22531F12958"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rs\/SDWebImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E28E36D423EC87798E52E2BF482E9F7A1E6479D6"
+    }
+  ]
+}
